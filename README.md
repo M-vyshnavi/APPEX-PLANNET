@@ -1,167 +1,178 @@
-# 📊 ApexPlanet Data Analytics Internship – Task 1
+ApexPlanet Data Analytics Internship – Tasks 1 to 4
 
-## 📌 Project Overview
+Welcome to my ApexPlanet Data Analytics Internship repository. This repository contains my complete work for Tasks 1–4, covering the end-to-end data analytics process from data cleaning and exploration to dashboard development, statistical analysis, and data storytelling.
 
-This repository contains the implementation of **Task 1** completed as part of my **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
+🚀 Tasks Overview
+🔹 Task 1 – Data Cleaning, EDA & Visualization
 
-The objective of this task is to perform **data cleaning, preprocessing, exploratory data analysis (EDA), and visualization** using Python on a real-world dataset.
+The first task focuses on preparing the dataset for analysis.
 
----
+Work completed:
 
-## 🎯 Objectives
+Data loading and inspection
+Handling missing values
+Removing duplicate records
+Data type correction
+Data preprocessing
+Exploratory Data Analysis (EDA)
+Statistical summary
+Data visualization
+Identification of trends and patterns
 
-* Import and explore the dataset.
-* Clean missing and duplicate data.
-* Perform statistical analysis.
-* Generate meaningful visualizations.
-* Identify trends and patterns from the dataset.
-* Prepare the dataset for further analysis.
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
----
+🔗 Repository:
+https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-1
 
-## 📂 Repository Contents
+🔹 Task 2 – Business Analysis & Data Visualization
 
-```
-📁 ApexPlanet-DataAnalytics-Task1
-│
-├── APPEX_TASK_1.ipynb                     # Google Colab/Jupyter Notebook
-├── ApexPlanet_DataAnalytics_Dataset.xlsx  # Original Dataset
-├── ApexPlanet_DataAnalytics_Dataset_Cleaned.xlsx
-├── DATA DICTIONARY.xlsx
-├── README.md
-```
+Task 2 focuses on analyzing the cleaned data from a business perspective.
 
----
+Work completed:
 
-## 🛠️ Technologies Used
+Descriptive analysis
+Business-oriented data analysis
+SQL queries
+Data aggregation and filtering
+Business questions and insights
+KPI identification
+Data visualization
+Business Intelligence concepts
 
-* Python
-* Google Colab
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+Tools: Python, SQL, Pandas, Matplotlib, Seaborn, Excel
 
----
+🔗 Repository:
+https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-2
 
-## 📚 Libraries Used
+🔹 Task 3 – Power BI Dashboard & Deep-Dive Analysis
 
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
+Task 3 focuses on creating an interactive Power BI dashboard and performing deeper customer and sales analysis.
 
----
+Key KPIs:
 
-## 📋 Project Workflow
+Total Sales
+Total Transactions
+Unique Customers
+Average Transaction Value
+Repeat Customers
+Repeat Customer Rate
 
-### Step 1: Data Import
+Analysis includes:
 
-* Loaded the dataset into Google Colab.
-* Imported all required Python libraries.
+Monthly sales trends
+Product and category performance
+City-wise sales
+Customer demographics
+Repeat customer analysis
+Customer cohort analysis
+Interactive filtering and slicers
 
-### Step 2: Data Exploration
+Tools: Power BI, DAX, Excel
 
-* Displayed the first and last records.
-* Checked dataset dimensions.
-* Inspected data types.
-* Generated summary statistics.
+🔗 Repository:
+https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-3
 
-### Step 3: Data Cleaning
+🔹 Task 4 – Data Storytelling & Statistical Validation
 
-* Checked for missing values.
-* Removed duplicate records.
-* Corrected data types where necessary.
-* Created a cleaned dataset.
+The final task focuses on converting analytical results into a meaningful business story and validating findings statistically.
 
-### Step 4: Exploratory Data Analysis (EDA)
+Work completed:
 
-Performed descriptive analysis to understand:
+Business insight identification
+Data storytelling
+Visualization of key findings
+Hypothesis formulation
+Statistical testing
+T-Test / Welch's T-Test
+Interpretation of p-values
+Confidence intervals
+Business implications
+Final presentation
 
-* Sales distribution
-* Customer information
-* Product categories
-* Order details
-* Overall data trends
+Tools: Power BI, Excel, PowerPoint, Statistical Analysis
 
-### Step 5: Data Visualization
+🔗 Repository:
+https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-4
 
-Created various charts including:
+🔄 Overall Workflow
+                 RAW DATA
+                    │
+                    ▼
+        ┌──────────────────────┐
+        │       TASK 1         │
+        │ Data Cleaning & EDA  │
+        └──────────┬───────────┘
+                   │
+                   ▼
+        ┌──────────────────────┐
+        │       TASK 2         │
+        │ Business Analysis &  │
+        │    Visualization     │
+        └──────────┬───────────┘
+                   │
+                   ▼
+        ┌──────────────────────┐
+        │       TASK 3         │
+        │ Power BI Dashboard & │
+        │   Deep-Dive Analysis │
+        └──────────┬───────────┘
+                   │
+                   ▼
+        ┌──────────────────────┐
+        │       TASK 4         │
+        │ Statistical Analysis │
+        │ & Data Storytelling  │
+        └──────────┬───────────┘
+                   │
+                   ▼
+            BUSINESS INSIGHTS
+🛠️ Technologies Used
+Category	Tools
+Programming	Python
+Data Analysis	Pandas, NumPy
+Visualization	Matplotlib, Seaborn
+Database	SQL
+Business Intelligence	Power BI
+Calculations	DAX
+Spreadsheet Analysis	Microsoft Excel
+Presentation	Microsoft PowerPoint
+Version Control	Git & GitHub
+📈 Skills Demonstrated
+Data Cleaning & Preprocessing
+Exploratory Data Analysis
+Statistical Analysis
+SQL Data Analysis
+Data Visualization
+Business Intelligence
+Power BI Dashboard Development
+DAX Measures
+KPI Development
+Customer Analysis
+Sales Analysis
+Hypothesis Testing
+Data Storytelling
+Business Insight Generation
+🎯 Learning Outcomes
 
-* Bar Charts
-* Histograms
-* Pie Charts
-* Box Plots
-* Scatter Plots
-* Correlation Heatmap
+Through these four tasks, I gained practical experience in the complete Data Analytics lifecycle:
 
-### Step 6: Insights
+Collect → Clean → Analyze → Visualize → Validate → Communicate
 
-Derived meaningful business insights from the cleaned dataset.
+The internship helped me understand how raw datasets can be transformed into meaningful insights and presented through interactive dashboards and professional data stories.
 
----
+📂 Task Repositories
+Task	Repository
+Task 1	https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-1
+Task 2	https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-2
+Task 3	https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-3
+Task 4	https://github.com/M-vyshnavi/APPEX-PLANNET-TASK-4
+👩‍💻 Author
 
-## 📖 Dataset Description
+Medam Vyshnavi
 
-The dataset contains customer order details including:
+Data Analytics Intern
+ApexPlanet Software Pvt. Ltd.
 
-| Column        | Description                |
-| ------------- | -------------------------- |
-| Order_ID      | Unique order identifier    |
-| Order_Date    | Date of purchase           |
-| Customer_ID   | Unique customer identifier |
-| Customer_Name | Customer's name            |
-| Age           | Customer age               |
-| Gender        | Customer gender            |
-| City          | Customer location          |
-| Product       | Purchased product          |
-| Category      | Product category           |
-| Quantity      | Quantity ordered           |
-| Unit_Price    | Price per unit             |
-| Total_Sales   | Total amount of the order  |
+⭐ Acknowledgement
 
----
-
-## 📈 Skills Demonstrated
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Statistical Analysis
-* Python Programming
-* Problem Solving
-* Data Interpretation
-
----
-
-## 📷 Output
-
-The notebook generates:
-
-* Cleaned dataset
-* Summary statistics
-* Graphical visualizations
-* Business insights
-
----
-
-## 🎥 Project Demo
-
-A demonstration video showcasing the complete execution of the notebook is included to illustrate the workflow and results.
-
----
-
-## 🚀 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-* Working with real-world datasets
-* Cleaning and preprocessing data
-* Performing exploratory data analysis
-* Creating informative visualizations
-* Extracting actionable insights using Python
-
----
+I sincerely thank ApexPlanet Software Pvt. Ltd. for providing me with this internship opportunity and allowing me to gain practical experience in Data Analytics, Business Intelligence, Power BI, Statistical Analysis, and Data Storytelling.
